@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WEI XUAN
-- 👀 I’m interested in Coding and Robotics
-- 🌱 I’m currently learning C++ and Java
+- 👀 I’m interested in AI and Security field
+- 🌱 I’m currently learning C++, Java, SQL
 
 
 <!---
