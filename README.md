@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm **Lee Wei Xuan**
 
-<!--
-**weixuan0110/weixuan0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m passionate about **cybersecurity**, **software development**, and **robotics**. I enjoy solving challenges, learning new skills, and collaborating with others to create impactful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **Currently studying at Universiti Teknologi Malaysia (UTM).**  
+- 🔒 **Cybersecurity enthusiast**, actively participating in Capture The Flag (CTF) competitions as part of the **M53 Team** , **CyberX** .  
+- 🤖 Experienced in **robotics** and **IoT**, with a strong interest in **AI-driven systems** and their applications.
+
+---
+
+## 🔗 Let's Connect
+- 🌐 **Portfolio Website**: *Coming soon!*  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/lee-wei-xuan-7687b2225)**  
+- 🐦 **Twitter**: *Coming soon!*  
+- 🛡️ **[TryHackMe](https://tryhackme.com/p/wxlee05)**  
+
+Feel free to explore my repositories and projects. I’m always open to collaborations and learning from others. Let’s build something amazing together!
+
+---
+
+✨ _“The best way to predict the future is to invent it.”_ ✨
