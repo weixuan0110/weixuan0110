@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about **cybersecurity**, **softwa
 ## 🚀 About Me
 - 🎓 **Currently studying at Universiti Teknologi Malaysia (UTM) (Computer Network and Security).**  
 - 🔒 **Cybersecurity enthusiast**, actively participating in Capture The Flag (CTF) competitions as part of the **M53 Team** , **CyberX** .
--     Aread of expertise -Digital Forensics and Web security  
+      - Areas of expertise Digital Forensics and Web Security  
 - 🤖 Experienced in **robotics** and **IoT**, with a strong interest in **AI-driven systems** and their applications.
 
 ---
