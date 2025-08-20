@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m passionate about **cybersecurity**, **softwa
 ---
 
 ## 🔗 Let's Connect
-- 🌐 **Portfolio Website**: *Coming soon!*  
+- 🌐 **Portfolio Website**: **https://weixuan0110.github.io**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/lee-wei-xuan-7687b2225)**  
 - 🐦 **Twitter**: *Coming soon!*  
 - 🛡️ **[TryHackMe](https://tryhackme.com/p/wxlee05)**  
