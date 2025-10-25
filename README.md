@@ -23,3 +23,5 @@ Feel free to explore my repositories and projects. I’m always open to collabor
 ---
 
 ✨ _“The best way to predict the future is to invent it.”_ ✨
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weixuan0110)](https://github.com/anuraghazra/github-readme-stats)
