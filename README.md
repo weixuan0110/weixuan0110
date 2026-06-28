@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Lee Wei Xuan**
 
-Welcome to my GitHub profile! I’m passionate about **cybersecurity**, **software development**, and **robotics**. I enjoy solving challenges, learning new skills, and collaborating with others to create impactful solutions.
+Welcome to my GitHub profile! I’m passionate about **cybersecurity** and **software development**. I enjoy solving challenges, learning new skills, and collaborating with others to create impactful solutions.
 
 ---
 
