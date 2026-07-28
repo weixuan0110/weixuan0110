@@ -1,26 +1,69 @@
-# Hi there! 👋 I'm **Lee Wei Xuan**
+<div align="center">
 
-Welcome to my GitHub profile! I’m passionate about **cybersecurity** and **software development**. I enjoy solving challenges, learning new skills, and collaborating with others to create impactful solutions.
+```
+┌─────────────────────────────────────────────┐
+│  root@weixuan0110:~$ whoami                  │
+│  Lee Wei Xuan                                │
+│  > Cybersecurity | Offensive Security | Dev  │
+└─────────────────────────────────────────────┘
+```
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=weixuan0110&label=CONNECTIONS&color=00ff00&style=flat-square)
 
-## 🚀 About Me
-- 🎓 **Currently studying at Universiti Teknologi Malaysia (UTM) (Computer Network and Security).**  
-- 🔒 **Cybersecurity enthusiast**, actively participating in Capture The Flag (CTF) competitions as part of the **M53 Team** , **RE:UN10N** and **CyberX** .
-      - Areas of expertise Andorid Hacking and Web Security  
-
----
-
-## 🔗 Let's Connect
-- 🌐 **Portfolio Website**: **https://weixuan0110.github.io**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/lee-wei-xuan-7687b2225)**  
-- 🐦 **Twitter**: *Coming soon!*  
-- 🛡️ **[TryHackMe](https://tryhackme.com/p/wxlee05)**  
-
-Feel free to explore my repositories and projects. I’m always open to collaborations and learning from others. Let’s build something amazing together!
+</div>
 
 ---
 
-✨ _“The best way to predict the future is to invent it.”_ ✨
+```bash
+$ cat about.txt
+```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weixuan0110)](https://github.com/anuraghazra/github-readme-stats)
+Student at Universiti Teknologi Malaysia (UTM) — Computer Network and Security.
+Focused on offensive security: web application attacks, Active Directory exploitation,
+and Android hacking. Competing in CTFs with M53 Team, RE:UN10N, and CyberX.
+Building tools and breaking things to understand how they really work.
+
+```bash
+$ ls ./focus_areas/
+```
+
+```
+web_security/          active_directory/       android_hacking/
+ctf_competitions/       vulnerability_research/  dev_projects/
+```
+
+```bash
+$ cat skills.json
+```
+
+```json
+{
+  "offense": ["Burp Suite", "Nmap", "Wireshark", "Kali Linux", "OWASP Top 10"],
+  "ad_exploitation": ["Kerberoasting", "ACL Abuse", "BadSuccessor/dMSA", "DCSync"],
+  "dev": ["Java", "Python", "PHP", "MySQL", "Git"],
+  "ctf_teams": ["M53 Team", "RE:UN10N", "CyberX"]
+}
+```
+
+```bash
+$ ./connect.sh
+```
+
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/-weixuan0110.github.io-000000?style=flat-square&logo=github&logoColor=00ff00&labelColor=000000)](https://weixuan0110.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weixuan0110&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weixuan0110&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9)
+
+```
+$ echo "I Want To SLEEEEEEEEEEP."
+```
+
+</div>
