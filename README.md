@@ -62,7 +62,7 @@ $ ./connect.sh
 
 <div align="center">
 
-[GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=weixuan0110&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=weixuan0110&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=weixuan0110&layout=compact&theme=dark&hide_border=true)
 
